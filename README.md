@@ -39,7 +39,6 @@ In this example we disabled dates back in history and we shows selected dates be
 ```javascript
 /**
  * Sample React Native App
- * https://github.com/facebook/react-native
  * @flow
  */
 
